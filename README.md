@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - Supervised Learning           |  -  This repository contains a step by step process machine learning regression analysis using the California housing dataset          | https:// https://github.com/kbay9/supervised-learning.git      |
+| 2 |  - Machine Learning classification            |  -  This repository describes machine learning algorithms for image classification  using the MNIST dataset           | https://https://github.com/kbay9/machine-learning-classification.git       |
+| 3 |  -  Data Visualization with python           |  -  This repository describes a step by step approach for visualization and querying data with numpy,pandas and matplotlib           | https:// https://github.com/kbay9/Data-visualization-with-python.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
